@@ -33,8 +33,8 @@ Maintainer: JTLB <jtlb.buisness@gmail.com>
 Depends: firmware (>=4.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.apple.store.caseprogram_2.0.4_iphoneos-arm.deb
-Size: 703786
-MD5sum: 070956e099f7763b2174f98a9d516920
+Size: 700744
+MD5sum: 1509726a894f75b4fffe1e4019f23709
 Description: This is the Case Program (iPhone 4) for IOS 4 to IOS 5
 Name: Case Program
 Author: JTLB <jtlb.buisness@gmail.com>
