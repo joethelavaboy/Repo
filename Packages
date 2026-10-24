@@ -26,17 +26,17 @@ Name: Old Package
 Author: JTLB <jtlb.buisness@gmail.com>
 Depiction: https://supermamon.github.io/JTLB/depictions/?p=com.supermamon.oldpackage
 
-Package: com.apple.store.caseprogram
-Version: 2.0.4
+Package: com.google.ios.youtube
+Version: 1.3.0
 Section: Applications
 Maintainer: JTLB <jtlb.buisness@gmail.com>
-Depends: firmware (>=4.0)
+Depends: firmware (>=5.0)
 Architecture: iphoneos-arm
-Filename: ./debs/com.apple.store.caseprogram_2.0.4_iphoneos-arm.deb
-Size: 700744
-MD5sum: 1509726a894f75b4fffe1e4019f23709
-Description: This is the Case Program (iPhone 4) for IOS 4 to IOS 5
-Name: Case Program
+Filename: ./debs/Youtube.deb
+Size: 9449780
+MD5sum: c64336b28cb307ff11cec8334f2d3704
+Description: The YouTube App ios 5 and above
+Name: Youtube
 Author: JTLB <jtlb.buisness@gmail.com>
 Depiction: https://joethelavaboy.github.io/depictions/?p=com.supermamon.oldpackage
 
